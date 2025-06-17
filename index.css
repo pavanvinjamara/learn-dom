@@ -1,0 +1,9 @@
+.hidden {
+  display: none;
+}
+.visible {
+  display: block;
+}
+.font-20{
+    font-size: 20px;
+}
